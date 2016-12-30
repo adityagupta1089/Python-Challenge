@@ -1,4 +1,4 @@
-with open('../data/3.txt') as f:
+with open('../data/2.txt') as f:
     text = f.readlines()
 for line in text:
     for cr in line:
